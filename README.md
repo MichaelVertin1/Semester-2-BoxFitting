@@ -1,6 +1,6 @@
 # Semester-2-BoxFitting
 
-CS136 Professor showed program that CS249 students were working on to fit several small boxes into a large box. This looked entertaining, so I attempted to recreate it. 
+CS136 Professor showed program that another class was working on to fit several small boxes into a large box. This looked entertaining, so I attempted to recreate it. 
 
 I inserted a SLEEP_TIME constant to slow down the program for viewers to observe the process. The box set is defined as a constant two-dimmensional array. I provided several examples within a block comment. 
 
